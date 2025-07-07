@@ -1,0 +1,107 @@
+#UserContainer
+{
+}
+
+#ProfilePane
+{
+	border-color: #000000;
+	border-style: solid;
+	border-width: 1px;
+	float: left;
+	width: 365px;
+}
+
+#PrimaryPlacePane
+{
+	border-color: #000000;
+	border-style: solid;
+	border-width: 1px;
+	float: right;
+	width: 420px;
+}
+
+#FriendsPane
+{
+	border-color: #000000;
+	border-style: solid;
+	border-width: 1px;
+	clear: both;
+	float: left;
+	height: 170px;
+	margin-top: 10px;
+	overflow: auto;
+	width: 800px;
+}
+
+#FriendRequestsPane
+{
+	border-color: #000000;
+	border-style: solid;
+	border-width: 1px;
+	clear: both;
+	float: left;
+	height: 170px;
+	margin-top: 10px;
+	overflow: auto;
+	width: 800px;
+}
+
+#UserModelsContainer
+{
+	clear: both;
+	float: left;
+}
+
+#Friends h4
+{
+	font-size: 10pt;
+	font-weight: bold;
+	line-height: 1em;
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+
+.Friend
+{
+	margin: 10px 10px 10px 10px;
+}
+
+.Friend .Summary
+{
+	margin-top: 5px;
+}
+
+.Friend .Options
+{
+	margin-top: 5px;
+	text-align: center;
+}
+
+#FriendRequests h4
+{
+	font-size: 10pt;
+	font-weight: bold;
+	line-height: 1em;
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+/*
+     FILE ARCHIVED ON 02:02:13 Nov 27, 2006 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 11:59:16 Jul 07, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.843
+  exclusion.robots: 0.029
+  exclusion.robots.policy: 0.012
+  esindex: 0.012
+  cdx.remote: 68.212
+  LoadShardBlock: 55.971 (3)
+  PetaboxLoader3.datanode: 140.605 (4)
+  load_resource: 218.734
+  PetaboxLoader3.resolve: 122.801
+*/
