@@ -1,0 +1,43 @@
+#InboxContainer
+{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #000000;
+	padding: 10px 10px 10px 10px;
+}
+
+#Inbox #Buttons
+{
+	margin: 10px 0px 10px 0px;
+}
+
+#Inbox #Buttons .Button
+{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #000000;
+	color: #000000;
+	font-family: Verdana, Sans-Serif;
+	padding: 3px 10px 3px 10px;
+	text-decoration: none;
+}
+/*
+     FILE ARCHIVED ON 22:14:16 Nov 19, 2006 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 11:55:07 Jul 07, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 1.327
+  exclusion.robots: 0.052
+  exclusion.robots.policy: 0.024
+  esindex: 0.049
+  cdx.remote: 98.633
+  LoadShardBlock: 200.865 (3)
+  PetaboxLoader3.datanode: 254.917 (4)
+  load_resource: 347.543
+  PetaboxLoader3.resolve: 257.289
+*/
